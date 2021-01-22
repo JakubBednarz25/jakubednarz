@@ -1,0 +1,22 @@
+.website-div {
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.website-div h2 {
+    color: #b0e0e6;
+    font-size: 2em;
+    margin-bottom: 25px;
+}
+
+.website-div a {
+    padding: 20px;
+    background: #b0e0e6;
+    color: #000;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
